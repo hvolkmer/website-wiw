@@ -1,0 +1,18 @@
+markdown: rdiscount
+pygments: true
+
+source:      .
+destination: ./_site
+includes:    ./_includes
+
+permalink:   /artikel/:title
+base_url: http://www.wenigeristweniger.de
+
+description: "Weniger"
+root_desc: "Weniger ist weniger blog"
+
+rdiscount:
+  extensions: []
+    
+exclude: ['Rakefile', 'README.markdown', 'config.rb']
+
