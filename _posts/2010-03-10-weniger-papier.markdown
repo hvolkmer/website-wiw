@@ -5,6 +5,10 @@ date: 2010-03-10 11:34:02 +01:00
 wordpress_url: http://www.wenigeristweniger.de/?p=20
 layout: post
 ---
+<div class="center">
+<img src="/wp-content/uploads/2010/04/IMG_0230.jpg" alt="Papierscanner" height="450" width="600" />
+</div>
+
 <blockquote>"Das <em>papierlose Büro</em> ist genauso weit weg wie das papierlose <em>Klo" - <span style="font-style: normal;">Heinrich v. Pierer (*1941), dt. Industrieller, Siemens AG</span></em></blockquote>
 Vom papierlosen Büro träumen viele. Die Vorteile liegen auf der Hand: Keine Papierberge mehr. Keine Schränke voller Ordner. Suchen von Dokumenten ist innerhalb von Sekunden möglich. Aber irgendwie scheinen nur wenige Firmen das wirklich um zu setzen. Das papierlose Büro erfordert eben auch einigen Initialaufwand und eine Menge Disziplin, um das durch zu halten.
 
@@ -12,7 +16,6 @@ Privat ist das ganz ähnlich... Ich kenne nur wenige, die zu Hause "papierlos" s
 
 Da wir im Büro einen <a href="http://www.amazon.de/Fujitsu-Scanner-Auflichtscanner-Einzugsscanner-ScanSnap/dp/B002TRFCXW/">Fujitsu Scan Snap</a> haben, habe ich mir den Wechsel auf papierlos nun noch einmal überlegt und letztendlich den Schritt gewagt. Ich habe mir den Scanner über das Wochenende ausgeliehen und losgescannt. Letztendlich habe ich 6 prall gefüllte Ordner digitialisiert. Der Scan Snap macht dies recht flott und erzeugt auf Wunsch auch direkt durchsuchbare PDF Dokumente.
 
-[gallery]
 
 Um die neuen Rechnungen, Dokumente etc. die hier so anfallen zu digitalisieren, nehme ich diese einfach einmal pro Monat mit ins Büro und scanne sie dort. Das dauert ca. 30 Minuten. Ich sortiere die Dokumente nur grob: Rechnungen, Kontoauszüge, Versicherungszeug, Rest. Zum Finden von konkreten Dokumenten nutze ich auch keine besondere Software, sondern einfach <a href="http://de.wikipedia.org/wiki/Spotlight_(Software)">Spotlight</a>. Ab Windows 7 sollte die Äqivalente Funktion von Windows ähnlich gut dafür einzusetzen sein. Ich habe schon mehrfach alte Rechnungen oder Briefverkehr gesucht und innerhalb weniger Sekunden gefunden.
 
