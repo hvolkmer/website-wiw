@@ -189,7 +189,12 @@ ul.posts {
     #post pre code {
       border: none;
     }
+  
 
+  #post blockquote {
+     margin: 1em;
+     border-left: 0.2em solid #ccc;
+   }
   /* terminal */
 
   #post pre.terminal {
