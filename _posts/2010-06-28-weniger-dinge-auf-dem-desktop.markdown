@@ -5,7 +5,7 @@ date: 2010-06-28 09:24:16 +02:00
 wordpress_url: http://www.wenigeristweniger.de/?p=86
 layout: post
 ---
-<div class="center"><a href="http://www.wenigeristweniger.de/wp-content/uploads/2010/05/desktop_min.png"><img class="aligncenter size-full wp-image-155" title="desktop_min" src="http://www.wenigeristweniger.de/wp-content/uploads/2010/05/desktop_min.png" alt="" width="454" height="285" /></a>
+<div class="center"><a href="/wp-content/uploads/2010/05/desktop_min.png"><img class="aligncenter size-full wp-image-155" title="desktop_min" src="/wp-content/uploads/2010/05/desktop_min.png" alt="" width="454" height="285" /></a>
 </div>
 Dies ist mein Desktop. Er sieht immer so aus. Hin und wieder kommen noch ein paar Dateien dazu, mit denen ich akutell arbeite. In den Ordner "inbox" kommt alles rein, was am Ende des Tages noch auf dem Desktop rumfährt. Man könnte dieses Vorgehen natürlich als cheaten bezeichnen, da die Dateien nicht wirklich sortiert sind. Dennoch sieht es danach sauber auf dem Desktop aus und ich kann mich jederzeit auf genau das konzentrieren, woran ich arbeite.
 

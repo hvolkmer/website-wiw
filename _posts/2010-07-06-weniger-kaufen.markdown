@@ -5,8 +5,8 @@ date: 2010-07-06 07:54:23 +02:00
 wordpress_url: http://www.wenigeristweniger.de/?p=180
 layout: post
 ---
-<div class="center"><a href="http://www.flickr.com/photos/spijker/3273982099/"><img src="http://www.wenigeristweniger.de/wp-content/uploads/2010/07/3273982099_52f0d555fb.jpeg" alt="Einkaufen" title="3273982099_52f0d555fb" width="500" height="354" class="aligncenter size-full wp-image-241" /></a></div>
-Wenn man den <a href="http://www.wenigeristweniger.de/artikel/weniger-zeug-im-keller/">Keller entrümpelt</a> und seine <a href="http://www.wenigeristweniger.de/artikel/weniger-cds-und-dvds/">DVDs verkauft</a> hat, ist viel Platz für Neues da und vielleicht von den Verkäufen auch etwas Geld auf dem Konto. Wenn man diesen Freiraum nun gleich wieder mit neuen Dingen füllt, war die ganze Aufräumaktion eher fruchtlos.
+<div class="center"><a href="http://www.flickr.com/photos/spijker/3273982099/"><img src="/wp-content/uploads/2010/07/3273982099_52f0d555fb.jpeg" alt="Einkaufen" title="3273982099_52f0d555fb" width="500" height="354" class="aligncenter size-full wp-image-241" /></a></div>
+Wenn man den <a href="/artikel/weniger-zeug-im-keller/">Keller entrümpelt</a> und seine <a href="/artikel/weniger-cds-und-dvds/">DVDs verkauft</a> hat, ist viel Platz für Neues da und vielleicht von den Verkäufen auch etwas Geld auf dem Konto. Wenn man diesen Freiraum nun gleich wieder mit neuen Dingen füllt, war die ganze Aufräumaktion eher fruchtlos.
 
 Wie kann man also dem Impuls widerstehen, immer mehr Dinge haben und kaufen zu wollen? Der Mensch ist ein Gewohnheitstier und das trifft auch beim Kauf von neuen Sachen zu. Da es sehr schwer ist sich einfach von Gewohnheiten zu trennen und es einfacher ist die alten durch neue Gewohnheiten zu ersetzen, ist dieser Ansatz auch für das Thema "Neue Dinge kaufen" zu empfehlen.
 

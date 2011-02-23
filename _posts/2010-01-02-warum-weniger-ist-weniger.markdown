@@ -6,7 +6,7 @@ wordpress_url: http://www.wenigeristweniger.de/?p=3
 layout: post
 ---
 <div class="center">
-<a href="http://www.flickr.com/photos/abbot45/187640227/"><img src="http://www.wenigeristweniger.de/wp-content/uploads/2010/01/187640227_8af7ee6376.jpeg" alt="Warum?" title="187640227_8af7ee6376" width="500" height="375" class="aligncenter size-full wp-image-257" /></a></div>
+<a href="http://www.flickr.com/photos/abbot45/187640227/"><img src="/wp-content/uploads/2010/01/187640227_8af7ee6376.jpeg" alt="Warum?" title="187640227_8af7ee6376" width="500" height="375" class="aligncenter size-full wp-image-257" /></a></div>
 
 Was bedeutet der Titel und warum gibt es diese Seite?
 

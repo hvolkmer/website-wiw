@@ -5,7 +5,7 @@ date: 2010-07-20 07:58:04 +02:00
 wordpress_url: http://www.wenigeristweniger.de/?p=34
 layout: post
 ---
-<div class="center"><a href="http://www.flickr.com/photos/9619972@N08/2781329487/"><img src="http://www.wenigeristweniger.de/wp-content/uploads/2010/07/2781329487_ba20fd6005.jpeg" alt="Newspaper" title="2781329487_ba20fd6005" width="500" height="333" class="aligncenter size-full wp-image-238" /></a></div>
+<div class="center"><a href="http://www.flickr.com/photos/9619972@N08/2781329487/"><img src="/wp-content/uploads/2010/07/2781329487_ba20fd6005.jpeg" alt="Newspaper" title="2781329487_ba20fd6005" width="500" height="333" class="aligncenter size-full wp-image-238" /></a></div>
 Heute schon die Zeitung gelesen? Schon Nachrichten geguckt? Online? Im Fernsehen?
 
 Wir werden täglich mit neuen Informationen "gefüttert": Nachrichten aus der Zeitung, dem Fernsehen und natürlich aus dem Internet. Zum einen nimmt das ganze Aufnehmen von Informationen Zeit in Anspruch. Zum anderen ist die Frage: Was tue ich nun mit den Informationen, die ich aus Nachrichten erhalte?

@@ -6,7 +6,7 @@ wordpress_url: http://www.wenigeristweniger.de/?p=42
 layout: post
 ---
 <div class="center">
-<a href="http://www.flickr.com/photos/dominic/116966838/"><img src="http://www.wenigeristweniger.de/wp-content/uploads/2010/05/116966838_306b17d80d.jpeg" alt="Leere Inbox" title="116966838_306b17d80d" width="500" height="246" class="aligncenter size-full wp-image-247" /></a></div>
+<a href="http://www.flickr.com/photos/dominic/116966838/"><img src="/wp-content/uploads/2010/05/116966838_306b17d80d.jpeg" alt="Leere Inbox" title="116966838_306b17d80d" width="500" height="246" class="aligncenter size-full wp-image-247" /></a></div>
 E-Mail ist toll. Man kann jedem, der eine E-Mail-Adresse hat kostenlos Nachrichten schreiben, auf der ganzen Welt. Soviele wie man will. Wann man will. Wundervoll. Oder doch nicht?
 
 Es gibt Studien die sagen, dass <a href="http://www.berufebilder.de/karriere/kommunikation/studie-macht-die-moderne-e-mail-kommunikation-produktiver">E-Mail die Arbeit produktiver</a> macht und andere, die genau <a href="http://www.zdnet.de/news/wirtschaft_unternehmen_business_studie_e_mail_stress_hemmt_produktivitaet_story-39001020-39157009-1.htm">das Gegenteil belegen</a>. Letztlich hängt das wie bei vielem vom persönlichen Verhalten ab. Der Mensch verhält sich unterbewusst eben doch meist sehr vorhersagbar und gerade die Belohnung, die durch E-Mails erzeugt wird, hat genau das Muster, was zu suchtartigem Verhalten führt (siehe <a href="http://de.wikipedia.org/wiki/Burrhus_Frederic_Skinner#Operante_Konditionierung:_ein_kurzer_.C3.9Cberblick">Operante Konditionierung</a>). Das heißt, dass man ohne aktiv gegenzuwirken automatisch in das Muster fällt und quasi suchtartig anfängt zu schauen, ob neue E-Mails da sind.

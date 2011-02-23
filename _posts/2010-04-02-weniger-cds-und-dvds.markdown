@@ -5,7 +5,7 @@ date: 2010-04-02 18:21:36 +02:00
 wordpress_url: http://www.wenigeristweniger.de/?p=59
 layout: post
 ---
-<div class="center"><a href="http://www.flickr.com/photos/hooverdust/210030283/"><img src="http://www.wenigeristweniger.de/wp-content/uploads/2010/04/129125140_e110fd46c1.jpeg" alt="DVDs" title="129125140_e110fd46c1" width="375" height="500" class="aligncenter size-full wp-image-251" /></a>
+<div class="center"><a href="http://www.flickr.com/photos/hooverdust/210030283/"><img src="/wp-content/uploads/2010/04/129125140_e110fd46c1.jpeg" alt="DVDs" title="129125140_e110fd46c1" width="375" height="500" class="aligncenter size-full wp-image-251" /></a>
 </div>
 Ich erinnere mich daran, als Musik-CDs gerade auf dem Vormarsch waren: Einige Freunde von mir hatten Regale voller CDs. Hunderte oder gar Tausende... ich hatte keine Ahnung, wie man sich so etwas leisten konnte und war durchaus neidisch. Dann kam das Zeitalter der CD-Brenner und es war noch leichter, viele CDs zu haben. "Sicherheitskopien" natürlich. Trotz Neides habe ich nie viel Geld investiert, um mir eine CD-Sammlung aufzubauen. Ich hatte maximal 10-20 Musik-CDs, dann ging es auch schon weiter mit mp3s, die die Sammlung ersetzten, danach kamen schnelle Internetverbindungen, die es quasi unnötig machten überhaupt Musik bei sich zu Hause zu bunkern.
 

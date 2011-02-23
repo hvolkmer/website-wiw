@@ -6,7 +6,7 @@ wordpress_url: http://www.wenigeristweniger.de/?p=18
 layout: post
 ---
 <div class="center">
-<a href="http://www.flickr.com/photos/neilio/20403964/"><img src="http://www.wenigeristweniger.de/wp-content/uploads/2010/02/20403964_b3f9b130a9.jpeg" alt="Zen Garten" title="20403964_b3f9b130a9" width="500" height="375" class="aligncenter size-full wp-image-253" /></a></div>
+<a href="http://www.flickr.com/photos/neilio/20403964/"><img src="/wp-content/uploads/2010/02/20403964_b3f9b130a9.jpeg" alt="Zen Garten" title="20403964_b3f9b130a9" width="500" height="375" class="aligncenter size-full wp-image-253" /></a></div>
 
 Die Frage ist berechtigt und für viele sicherlich ungewöhnlich, denn es geht in unserer Gesellschaft darum immer mehr zu haben. Ich verurteile dies nicht und denke, dass jeder das Recht hat, so viel zu haben wie er oder sie möchte. Wenn man jedoch "mehr" haben möchte, sollte man sich fragen, warum? Genau wie ich mich fragte, warum ich weniger haben möchte. Weniger bedeutet in meinen Augen auch nicht "schlechter". "Weniger" ist nicht negativ behaftet. Weniger ist einfach weniger. Was dazu führt das man die einzelnen Sachen als wertvoller wahrnimmt und man sich auch wenige, aber hochwertige Sachen leisten kann.
 

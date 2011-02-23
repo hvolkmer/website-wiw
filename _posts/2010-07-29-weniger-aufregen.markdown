@@ -5,7 +5,7 @@ date: 2010-07-29 07:55:25 +02:00
 wordpress_url: http://www.wenigeristweniger.de/?p=216
 layout: post
 ---
-<div class="center"><a href="http://www.flickr.com/photos/hckyso/3850046841/"><img src="http://www.wenigeristweniger.de/wp-content/uploads/2010/07/3850046841_8a017457f3.jpeg" alt="Smashing an apple" title="3850046841_8a017457f3" width="500" height="333" class="aligncenter size-full wp-image-235" /></a></div>
+<div class="center"><a href="http://www.flickr.com/photos/hckyso/3850046841/"><img src="/wp-content/uploads/2010/07/3850046841_8a017457f3.jpeg" alt="Smashing an apple" title="3850046841_8a017457f3" width="500" height="333" class="aligncenter size-full wp-image-235" /></a></div>
 Der gemeine Deutsche meckert ja bekanntlich gerne. Über alles und jeden und auf hohem Niveau. Auch ich regte mich gerne über alles mögliche auf: "Musste der Typ mir gerade die Vorfahrt nehmen?" "Toll, Stau!" "Warum quoten alle Leute ihre E-Mails mittlerweile <a href="http://de.wikipedia.org/wiki/TOFU">TOFU</a>?" "Jetzt ist mir schon wieder der Stift runtergefallen." "Ah... einmal mit Profis arbeiten!"
 
 Jeder hat sich selbst sicher schon mal den einen oder anderen Satz sagen hören. Letztendlich bringt "sich aufregen" jedoch nichts außer schlechte Laune und Unglück. Auch der allgemeine Rat "Einfach mal Dampf ablassen", wenn einem etwas nicht passt, verschlechtert die Lage eher. <a href="http://www.psychologytoday.com/blog/ulterior-motives/200909/you-cant-punch-your-way-out-anger">Das ist sogar wissenschaftlich belegt</a>. Auch <a href="http://www.psychologytoday.com/blog/ulterior-motives/200909/you-can-t-blow-steam-video-games-either">Video-Spiele helfen hier nicht</a>.

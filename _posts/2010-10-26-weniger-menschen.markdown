@@ -6,7 +6,7 @@ wordpress_url: http://www.wenigeristweniger.de/?p=316
 layout: post
 ---
 <div class="center">
-<a href="http://www.wenigeristweniger.de/wp-content/uploads/2010/10/Foto1.jpeg"><img class="aligncenter size-full wp-image-319" title="Foto" src="http://www.wenigeristweniger.de/wp-content/uploads/2010/10/Foto1.jpeg" alt="" width="480" height="640" /></a>
+<a href="/wp-content/uploads/2010/10/Foto1.jpeg"><img class="aligncenter size-full wp-image-319" title="Foto" src="/wp-content/uploads/2010/10/Foto1.jpeg" alt="" width="480" height="640" /></a>
 </div>
 
 <em>Gastbeitrag von <a href="http://weltwahnsinn.blogspot.com/">Weltwahnsinn</a>:</em>

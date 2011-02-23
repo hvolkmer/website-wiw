@@ -6,7 +6,7 @@ wordpress_url: http://www.wenigeristweniger.de/?p=276
 layout: post
 ---
 <div class="center">
-<a href="http://www.flickr.com/photos/flyforfun/3212247460/"><img class="aligncenter size-full wp-image-284" title="3212247460_60e661f7e1" src="http://www.wenigeristweniger.de/wp-content/uploads/2010/09/3212247460_60e661f7e1.jpeg" alt="" width="500" height="333" /></a></div>
+<a href="http://www.flickr.com/photos/flyforfun/3212247460/"><img class="aligncenter size-full wp-image-284" title="3212247460_60e661f7e1" src="/wp-content/uploads/2010/09/3212247460_60e661f7e1.jpeg" alt="" width="500" height="333" /></a></div>
 Warum hat der menschliche Körper zwei Lungen, zwei Gehirnhälften und zwei Nieren? Wäre es nicht effizienter nur jeweils ein Exemplar zu haben? Die Antwort ist: Ja. Es ist möglich mit nur jeweils einer Niere, einer Lunge und einer Gehirnhälfte zu leben. Es ist effizienter - braucht also weniger Energie. Dennoch hat der Körper jeweils zwei Exemplare dieser Organe. Warum?
 
 Warum gibt es in Verkehrsflugzeugen drei Autopiloten (siehe Bild)? Diese hochspezialisierten Computersysteme sind sehr teuer in der Entwicklung. Wäre es da nicht effizienter, nur einen zu haben? Das Flugzeug fliegt auch mit einem!

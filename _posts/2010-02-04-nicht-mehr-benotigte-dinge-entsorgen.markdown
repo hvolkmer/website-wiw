@@ -6,7 +6,7 @@ wordpress_url: http://www.wenigeristweniger.de/?p=14
 layout: post
 ---
 <div class="center">
-<a href="http://www.flickr.com/photos/debaird/124298436/"><img src="http://www.wenigeristweniger.de/wp-content/uploads/2010/02/124298436_ad13d795b9.jpeg" alt="Zeug" title="124298436_ad13d795b9" width="500" height="375" class="aligncenter size-full wp-image-249" /></a></div>
+<a href="http://www.flickr.com/photos/debaird/124298436/"><img src="/wp-content/uploads/2010/02/124298436_ad13d795b9.jpeg" alt="Zeug" title="124298436_ad13d795b9" width="500" height="375" class="aligncenter size-full wp-image-249" /></a></div>
 
 Nun zum Thema Entsorgung. Entsorgen bedeutet nicht zwingend wegwerfen. Ich habe z.B. viele alte Bücher im Keller gehabt, die ich nicht mehr lese und habe diese an den <a href="http://www.buechertisch.org/bucher-spenden/">Berliner Büchertisch gespendet</a> oder für aktuelle Fachbücher, CDs und DVDs interessant: Ganz einfach über <a href="http://ad.zanox.com/ppc/?14471569C1535662350T">Momox.de</a> verkauft. Ob man die Bücher, CDs und DVDs nun verkauft oder spendet: Bei den beiden genannten Adressen werden die Sachen ganz praktisch abgeholt.
 
