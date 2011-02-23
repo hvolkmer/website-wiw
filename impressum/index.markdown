@@ -3,10 +3,11 @@ layout: default
 title: Impressum
 ---
 
-Hendrik Volkmer
-c/o imedo GmbH
-Karl-Liebknecht-Str. 5
-10178 Berlin
+Impressum
+
+    Hendrik Volkmer
+    John-Schehr-Str. 24
+    10407 Berlin
 
 Email: solaris (at) sundevil (punkt) de
 
