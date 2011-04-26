@@ -9,7 +9,7 @@ layout: post
 
 Menschen sind verdammt schlecht darin Erfahrungen absolut zu beurteilen. Sei es Geld, Zufriedenheit oder Gesundheit. Wenn ich zum Beispiel betrachte, wie schlimm es wäre 2000 EUR zu verlieren kann ich das nicht genau sagen. Es ist weniger schlimm, wenn ich 2 Mio auf dem Konto habe, als wenn ich nur 100 EUR habe. Absolut gesehen sind es in beiden Fällen 2000 EUR.
 
-Geld ist hier vielleicht das einleuchtendste Beispiel. Menschen verhalten sich aber grundsätzlich so, dass sie immer abwägen und vergleichen. Wie gut schmeckt essen? Wer zwei Wochen nur Wasser und Brot gegessen hat, wird sich über einen Burger von einer Fastfoodkette vielleicht freuen. Wer die zwei Wochen in einem fünf Sterne Resort verbracht hat, würde auf das Fleischbrötchen sicher gerne verzichten.
+Geld ist hier vielleicht das einleuchtendste Beispiel. Menschen verhalten sich aber grundsätzlich so, dass sie immer abwägen und vergleichen. Wie gut schmeckt Essen? Wer zwei Wochen nur Wasser und Brot gegessen hat, wird sich über einen Burger von einer Fastfoodkette vielleicht freuen. Wer die zwei Wochen in einem fünf Sterne Resort verbracht hat, würde auf das Fleischbrötchen sicher gerne verzichten.
 
 Zunächst mal könnte man meinen, dass dies eine Schwäche des Menschen ist, und es besser wäre, wenn wir das doch irgendwie alles absolut beurteilen könnten. Leider können wir nun aber gerade unser Unterbewusstsein nicht so leicht umbauen und schon gar nicht grundlegende menschliche Züge ändern.
 
@@ -25,5 +25,5 @@ Das Gute an diesen "negativen" Dingen ist, dass man sich, wenn sie dann vorbei s
 
 Ich gebe zu, dass sich das wirklich nach einem Trick anhört. Eine Art "positives Denken", wie man es in amerikanischen Selbsthilfebüchern erwartet. Es geht hier aber um etwas anderes. Es geht um den Vergleich: Gut vs. Schlecht. Nervig vs. nicht nervig. Da ich die negative Seite erfahren habe, kann ich einfach die positive Seite - die in diesem Fall einfach das Nichtvorhandensein der negativen Seite ist, schätzen.
 
-Wenn Euch das nächste mal etwas total nervt oder ihr euch über etwas ärgert, dann probiert einfach, später, wenn alles vorbei ist, daran zu denken, wie toll es ist, dass es vorbei ist. Das Aufregen selbst kann man natürlich auch [reduzieren](/artikel/weniger-aufregen/).
+Wenn Euch das nächste mal etwas total nervt oder Ihr Euch über etwas ärgert, dann probiert einfach, später, wenn alles vorbei ist, daran zu denken, wie toll es ist, dass es vorbei ist. Das Aufregen selbst kann man natürlich auch [reduzieren](/artikel/weniger-aufregen/).
 

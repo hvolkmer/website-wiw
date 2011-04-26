@@ -13,7 +13,7 @@ Anmerkungen nehme ich gerne als Kommentar oder via [E-Mail](mailto:solaris@sunde
 
 ## Colophon
 
-Diese Seite ist so minimalistisch wie möglich gestaltet. Es gibt noch nicht mal einen Webserver, der sie bereitstellt. Die Seite wird via [Amazon S3](http://www.allthingsdistributed.com/2011/02/website_amazon_s3.html) ausgeliefert. Kommentare sind via [Disqus](disqus.com) eingebunden. Erstellt wurde die Seite mittels einfachem Texteditor und [Jekyll](https://github.com/mojombo/jekyll).
+Diese Seite ist so minimalistisch wie möglich gestaltet. Es gibt noch nicht mal einen Webserver, der sie bereitstellt. Die Seite wird via [Amazon S3](http://www.allthingsdistributed.com/2011/02/website_amazon_s3.html) ausgeliefert. Kommentare sind via [Disqus](http://disqus.com) eingebunden. Erstellt wurde die Seite mittels einfachem Texteditor und [Jekyll](https://github.com/mojombo/jekyll).
 
 
 
