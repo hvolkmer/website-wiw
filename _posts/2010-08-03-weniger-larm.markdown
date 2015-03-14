@@ -1,11 +1,11 @@
 --- 
 wordpress_id: 228
-title: "Weniger L\xC3\xA4rm"
+title: "Weniger Lärm"
 date: 2010-08-03 07:12:57 +02:00
 wordpress_url: http://www.wenigeristweniger.de/?p=228
 layout: post
 ---
-<div class="center"><a href="http://www.flickr.com/photos/filicudi/3966095552/"><img src="/wp-content/uploads/2010/08/zen-garden-1024-x-768-by-CyboRoZ.jpeg" alt="" title="zen garden 1024 x 768 by CyboRoZ" width="500" height="375" class="aligncenter size-full wp-image-232" /></a>
+<div class="center"><a href="http://www.flickr.com/photos/filicudi/3966095552/"><img src="/wp-content/uploads/2010/08/zen-garden-1024-x-768-by-CyboRoZ.jpeg" alt="Zen Garden" title="zen garden 1024 x 768 by CyboRoZ" width="500" height="375" class="aligncenter size-full wp-image-232" /></a>
 </div>
 Immer mehr, schneller, höher, lauter - darum geht's heutzutage. Und dann wundern wir uns, wenn wir gestresst sind? Eigentlich kein Wunder! Um dem Stress entgegenzuwirken hilft es einfach mal ab zu schalten und zur Ruhe kommen. 
 

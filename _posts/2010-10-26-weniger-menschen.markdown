@@ -6,10 +6,10 @@ wordpress_url: http://www.wenigeristweniger.de/?p=316
 layout: post
 ---
 <div class="center">
-<a href="/wp-content/uploads/2010/10/Foto1.jpeg"><img class="aligncenter size-full wp-image-319" title="Foto" src="/wp-content/uploads/2010/10/Foto1.jpeg" alt="" width="480" height="640" /></a>
+<a href="/wp-content/uploads/2010/10/Foto1.jpeg"><img class="aligncenter size-full wp-image-319" title="Foto" src="/wp-content/uploads/2010/10/Foto1.jpeg" alt="Skyline" width="480" height="640" /></a>
 </div>
 
-<em>Gastbeitrag von <a href="http://weltwahnsinn.blogspot.com/">Weltwahnsinn</a>:</em>
+<em>Gastbeitrag von Weltwahnsinn:</em>
 
 Der Mensch ist ein Herdentier – keine Frage. Lernt einer was, lernen es die anderen der Herde früher oder später auch. Eine stetige Entwicklung sichert unser Überleben und die Herrschaft über die Erde. Denn erst mit Beginn unserer geistigen Entwicklungen gewannen wir die Oberhand über das Tier und kultivierten uns bis zum heutigen Mensch.
 

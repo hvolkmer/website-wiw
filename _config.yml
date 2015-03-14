@@ -1,18 +1,9 @@
-markdown: rdiscount
-pygments: true
-
-source:      .
-destination: ./_site
-includes:    ./_includes
-
-permalink:   /artikel/:title
+markdown: kramdown
 base_url: http://www.wenigeristweniger.de
 
 description: "Weniger"
 root_desc: "Weniger ist weniger blog"
-
-rdiscount:
-  extensions: []
     
-exclude: ['Rakefile', 'README.markdown', 'config.rb']
+exclude: ['Rakefile', 'vendor', "Gemfile", "Gemfile.lock", "s3_website.yml"]
 
+permalink: /artikel/:title

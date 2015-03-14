@@ -1,8 +1,16 @@
+require 'html/proofer'
 
-task :default => :deploy
+task :default => :publish
 
 desc "Deploy to S3"
-task :deploy do
-  sh "jekyll"
-  sh "s3cmd sync _site/* s3://www.wenigeristweniger.de/"
+task :publish => :test do
+  sh "s3_website push"
+end
+
+task :build do
+  sh "bundle exec jekyll build"
+end
+
+task :test => :build do
+  HTML::Proofer.new("./_site").run
 end

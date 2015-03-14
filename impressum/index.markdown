@@ -6,8 +6,8 @@ title: Impressum
 Impressum
 
     Hendrik Volkmer
-    John-Schehr-Str. 24
-    10407 Berlin
+    Boxhagener Str. 117
+    10245 Berlin
 
 Email: solaris (at) sundevil (punkt) de
 

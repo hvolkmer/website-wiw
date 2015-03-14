@@ -1,11 +1,11 @@
 --- 
 wordpress_id: 328
-title: "Weniger, nein, gar kein Gep\xC3\xA4ck"
+title: "Weniger, nein, gar kein Gepäck"
 date: 2011-01-06 11:12:08 +01:00
 wordpress_url: http://www.wenigeristweniger.de/?p=328
 layout: post
 ---
-<div class="center"><a href="/wp-content/uploads/2010/11/IMG_1618.jpg"><img class="aligncenter size-full wp-image-335" title="IMG_1618" src="/wp-content/uploads/2010/11/IMG_1618.jpg" alt="" width="640" height="480" /></a></div>
+<div class="center"><a href="/wp-content/uploads/2010/11/IMG_1618.jpg"><img class="aligncenter size-full wp-image-335" title="IMG_1618" src="/wp-content/uploads/2010/11/IMG_1618.jpg" alt="Gepäckliste" width="640" height="480" /></a></div>
 
 Reisen ohne Gepäck? Geht das? Rolf Potts ist ohne ein einziges Gepäckstück durch die ganze Welt gereist. Ich habe erstmal ein etwas kleineres Experiment gewagt und habe ohne Gepäck ein Wochenende in London verbracht.
 

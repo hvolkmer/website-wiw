@@ -6,7 +6,7 @@ wordpress_url: http://www.wenigeristweniger.de/?p=276
 layout: post
 ---
 <div class="center">
-<a href="http://www.flickr.com/photos/flyforfun/3212247460/"><img class="aligncenter size-full wp-image-284" title="3212247460_60e661f7e1" src="/wp-content/uploads/2010/09/3212247460_60e661f7e1.jpeg" alt="" width="500" height="333" /></a></div>
+<a href="http://www.flickr.com/photos/flyforfun/3212247460/"><img class="aligncenter size-full wp-image-284" title="3212247460_60e661f7e1" src="/wp-content/uploads/2010/09/3212247460_60e661f7e1.jpeg" alt="Autpilot panel" width="500" height="333" /></a></div>
 Warum hat der menschliche Körper zwei Lungen, zwei Gehirnhälften und zwei Nieren? Wäre es nicht effizienter nur jeweils ein Exemplar zu haben? Die Antwort ist: Ja. Es ist möglich mit nur jeweils einer Niere, einer Lunge und einer Gehirnhälfte zu leben. Es ist effizienter - braucht also weniger Energie. Dennoch hat der Körper jeweils zwei Exemplare dieser Organe. Warum?
 
 Warum gibt es in Verkehrsflugzeugen drei Autopiloten (siehe Bild)? Diese hochspezialisierten Computersysteme sind sehr teuer in der Entwicklung. Wäre es da nicht effizienter, nur einen zu haben? Das Flugzeug fliegt auch mit einem!
@@ -15,7 +15,7 @@ Das tägliche Leben und die Arbeitswelt vermittelt den Eindruck als ob Effizienz
 
 Es gibt zahlreiche Beispiele von robusten Systemen. Der menschliche Körper und Flugzeuge sind zwei Beispiele. Das Internet ist ein weiteres. Es können tausende von Komponenten ausfallen und dennoch funktioniert - der Großteil - des Internets immer noch.
 
-Es gibt auch zahlreiche Beispiele von effizienten Systemen. Das Bankensystem zum Beispiel oder viele Firmen.  <a href="http://www.fooledbyrandomness.com/">Nassim Nicholas Taleb</a> beschreibt in der zweiten Ausgabe des Buches "Der Schwarze Schwan" genau den Unterschied zwischen robust und effizient. <a href="http://www.fooledbyrandomness.com/robustness.pdf">Dieses Kapitel ist kostenlos online verfügbar</a> (englisch).
+Es gibt auch zahlreiche Beispiele von effizienten Systemen. Das Bankensystem zum Beispiel oder viele Firmen.  <a href="http://www.fooledbyrandomness.com/">Nassim Nicholas Taleb</a> beschreibt in der zweiten Ausgabe des Buches "Der Schwarze Schwan" genau den Unterschied zwischen robust und effizient.
 
 Manchmal kommen Ideen durch mehrere Kanäle in kurzer Zeit bei mir an. Das finde ich immer sehr interessant. Ein solche Idee ist "Weniger Effizienz - mehr Robustheit". Johan Rockstrom erklärt in "<a href=" http://www.ted.com/talks/johan_rockstrom_let_the_environment_guide_our_development.html">Let the Environment guide our Development</a>" (Lasst die Umwelt unsere Entwicklung leiten), dass die Natur selbst äußerst robust gebaut ist und es entscheidend für die zukünftige Entwicklung der Welt ist, dass wir Menschen auch langsam Robustheit der Effizienz vor ziehen, da sonst in 50 Jahren nicht mehr all zu viel da ist, was - effizient oder nicht - getan werden kann.
 

@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 14
-title: "Nicht mehr ben\xC3\xB6tigte Dinge entsorgen"
+title: "Nicht mehr benötigte Dinge entsorgen"
 date: 2010-02-04 07:38:06 +01:00
 wordpress_url: http://www.wenigeristweniger.de/?p=14
 layout: post

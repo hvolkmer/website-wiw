@@ -1,11 +1,11 @@
 --- 
 wordpress_id: 300
-title: "Weniger Gep\xC3\xA4ck"
+title: "Weniger Gepäck"
 date: 2010-10-16 12:29:00 +02:00
 wordpress_url: http://www.wenigeristweniger.de/?p=300
 layout: post
 ---
-<div class="center"><p style="text-align: center;"><a href="/wp-content/uploads/2010/10/irland.jpg"><img class="aligncenter size-full wp-image-302" title="irland" src="/wp-content/uploads/2010/10/irland.jpg" alt="" width="512" height="384" /></a></p>
+<div class="center"><p style="text-align: center;"><a href="/wp-content/uploads/2010/10/irland.jpg"><img class="aligncenter size-full wp-image-302" title="irland" src="/wp-content/uploads/2010/10/irland.jpg" alt="Fahrradfahrer mit Rucksack" width="512" height="384" /></a></p>
 </div>
 Wie viel Gepäck braucht man wirklich? Für ein Wochenende am Meer? Für eine Weltreise? Für eine Fahrradtour durch Irland? 
 

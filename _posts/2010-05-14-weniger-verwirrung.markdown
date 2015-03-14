@@ -6,7 +6,7 @@ wordpress_url: http://www.wenigeristweniger.de/?p=106
 layout: post
 ---
 <div class="center">
-<a href="http://www.flickr.com/photos/greiber/2736762790/"><img src="/wp-content/uploads/2010/05/2736762790_bbc1c97e48.jpeg" alt="Kompass" title="2736762790_bbc1c97e48" width="500" height="333" class="aligncenter size-full wp-image-245" /></a></div>
+<img src="/wp-content/uploads/2010/05/2736762790_bbc1c97e48.jpeg" alt="Kompass" title="2736762790_bbc1c97e48" width="500" height="333" class="aligncenter size-full wp-image-245" /></div>
 Was bringt es mir "weniger ist weniger" zu lesen? Was findet man hier?
 
 Dieser Artikel gibt eine kleine Übersicht über die verschiedenen Aspekte des "Leben mit weniger", wie ich es lebe und hier beschreibe. Für Neulinge dient er als Überblick und Einstieg.
@@ -25,4 +25,4 @@ Konkrete Ideen und Hinweise:
 
 - <a href="/artikel/weniger-zeug-im-keller/">Weniger Zeug im Keller</a> - Tipps zum Keller aufräumen
 
-Es werden in Zukunft noch einige Artikel dazu kommen. Abo via <a href="http://www.wenigeristweniger.de/feed/">RSS</a>, E-Mail oder <a href="http://twitter.com/wenigeriweniger">Follow auf Twitter</a> wärmstens empfohlen.
+Es werden in Zukunft noch einige Artikel dazu kommen. Abo via <a href="http://feeds.feedburner.com/weniger-ist-weniger">RSS</a>, E-Mail oder <a href="http://twitter.com/wenigeriweniger">Follow auf Twitter</a> wärmstens empfohlen.

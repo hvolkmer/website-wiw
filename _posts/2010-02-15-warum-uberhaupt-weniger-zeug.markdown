@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 18
-title: "Warum \xC3\xBCberhaupt weniger Zeug?"
+title: "Warum überhaupt weniger Zeug?"
 date: 2010-02-15 08:05:33 +01:00
 wordpress_url: http://www.wenigeristweniger.de/?p=18
 layout: post
